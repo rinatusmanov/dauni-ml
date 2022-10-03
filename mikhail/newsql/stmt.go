@@ -8,6 +8,8 @@ import (
 	"github.com/pkg/errors"
 )
 
+// dauni
+
 type Stmt struct {
 	stmt             driver.Stmt
 	stmtExecContext  driver.StmtExecContext
